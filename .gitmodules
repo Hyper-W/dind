@@ -1,0 +1,9 @@
+[submodule "alpine-dind"]
+	path = alpine-dind
+	url = git@github.com:Hyper-W/alpine-dind.git
+[submodule "debian-dind"]
+	path = debian-dind
+	url = git@github.com:Hyper-W/debian-dind.git
+[submodule "ubuntu-dind"]
+	path = ubuntu-dind
+	url = git@github.com:Hyper-W/ubuntu-dind.git
